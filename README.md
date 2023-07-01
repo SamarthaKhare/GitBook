@@ -4,6 +4,9 @@ This is React based web application to browse your favourite github user,check o
 their most popular Repo etc through charts.
 
 App is build with help of ReactJs
+
 Auth0 is used for Authentication Service 
+
 React Styled Components for styling
+
 Data is requested from github API
